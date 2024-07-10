@@ -1,4 +1,3 @@
-import _ from "lodash";
 import { log } from "./logger";
 import { _async } from "./utils.js";
 import load from "./load.js";
